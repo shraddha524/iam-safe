@@ -14,6 +14,8 @@ User-friendly interface for quick access during distress
 
 The app empowers users to feel safer and connected, especially in critical situations.
 
+
+
  Features
 
 Instant SOS Alerts
@@ -27,6 +29,8 @@ User-Friendly Interface
 
 Quick Notification System
   Reduced emergency response time by 40% with fast and automated alerts.
+
+
 
 
   Requirements
