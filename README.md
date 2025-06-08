@@ -2,6 +2,8 @@
 📱 Category: Android Application
 A personal safety app designed to enhance women’s security by providing emergency alerts, real-time tracking, and easy communication with guardians and authorities.
 
+
+
 🚀 Features
 🆘 Emergency Alerts: Instantly send distress SMS with location to registered guardians.
 
@@ -14,6 +16,10 @@ A personal safety app designed to enhance women’s security by providing emerge
 📝 Complaint System: Users can create, view, and delete complaints.
 
 📞 Police Helpline & Escape Tips: Provides safety tips and quick access to helpline numbers.
+
+
+
+
 
 🧩 System Modules
 👤 User Module
@@ -29,10 +35,13 @@ Complaint Management: Add, view, and delete complaints.
 
 Escape Tips & Helpline Access: Provides quick safety information.
 
+
+
 👮 Police Module
 Register/Login: For police personnel.
-
 View Complaints: Access user-submitted reports in real time.
+
+
 
 🛠️ Tech Stack
 Layer	Technology
@@ -45,14 +54,14 @@ OS	Windows (Development)
 
 
 
+
 📌 How to Run the App
 Clone the repo.
-
 Open with Android Studio.
-
 Run the emulator or connect your Android device.
-
 Build and Run the app.
+
+
 
 🙋‍♀️ Developed By
 Shraddha, BCA Graduate from Alva’s College, passionate about tech and women’s safety through digital solutions.
