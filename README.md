@@ -2,6 +2,7 @@
 📱 Category: Android Application
 A personal safety app designed to enhance women’s security by providing emergency alerts, real-time tracking, and easy communication with guardians and authorities.
 
+######################################################################################################################################################################################################################################
 🚀 Features
 🆘 Emergency Alerts: Instantly send distress SMS with location to registered guardians.
 
@@ -15,6 +16,8 @@ A personal safety app designed to enhance women’s security by providing emerge
 
 📞 Police Helpline & Escape Tips: Provides safety tips and quick access to helpline numbers.
 
+
+############################################################################################################################################################################################################################################
 🧩 System Modules
 👤 User Module
 Register/Login: Basic authentication using username and password.
@@ -34,6 +37,8 @@ Register/Login: For police personnel.
 
 View Complaints: Access user-submitted reports in real time.
 
+
+###########################################################################################################################################################################################################################################3
 🛠️ Tech Stack
 Layer	Technology
 Frontend	XML (Android UI)
@@ -44,7 +49,7 @@ Platform	Android (Emulator or Device)
 OS	Windows (Development)
 
 
-
+##############################################################################################################################################################################################################################################
 📌 How to Run the App
 Clone the repo.
 
@@ -54,6 +59,8 @@ Run the emulator or connect your Android device.
 
 Build and Run the app.
 
+
+##############################################################################################################################################################################################################################################
 🙋‍♀️ Developed By
 Shraddha, BCA Graduate from Alva’s College, passionate about tech and women’s safety through digital solutions.
 
