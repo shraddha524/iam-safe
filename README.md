@@ -1,42 +1,61 @@
-# iam-safe appication
+💡 I Am Safe — Android Safety App for Women
+📱 Category: Android Application
+A personal safety app designed to enhance women’s security by providing emergency alerts, real-time tracking, and easy communication with guardians and authorities.
 
-Project Title:- iam safe 
-category:- Android Application
+🚀 Features
+🆘 Emergency Alerts: Instantly send distress SMS with location to registered guardians.
+
+📍 Real-Time Tracking: Uses GPS to track user location in emergencies.
+
+🔴 SOS Button: Trigger a panic alert that sends an SMS and optionally calls emergency services.
+
+👮 Search Nearby Police Stations: Helps users find the closest police station using location services.
+
+📝 Complaint System: Users can create, view, and delete complaints.
+
+📞 Police Helpline & Escape Tips: Provides safety tips and quick access to helpline numbers.
+
+🧩 System Modules
+👤 User Module
+Register/Login: Basic authentication using username and password.
+
+Add/View Guardians: Register emergency contacts to receive alerts.
+
+SOS Button: Sends emergency SMS with current location to guardians.
+
+Search Police Station: Location-based search for nearby police stations.
+
+Complaint Management: Add, view, and delete complaints.
+
+Escape Tips & Helpline Access: Provides quick safety information.
+
+👮 Police Module
+Register/Login: For police personnel.
+
+View Complaints: Access user-submitted reports in real time.
+
+🛠️ Tech Stack
+Layer	Technology
+Frontend	XML (Android UI)
+Backend	Java (Android)
+Database	SQLite
+IDE	Android Studio
+Platform	Android (Emulator or Device)
+OS	Windows (Development)
 
 
-Features:
-Emergency Alerts: women can quickly send  distress signals to pre-selected contacts or authorities, providing their location and relevant details.
-Real Time tracking: The applications utilize GPS technology to track the user's location, enabling friends, family , or emergency services to locate and assist them if needed .
-SOS Butttons: Many applications have a prominent SOS button that, when activated , sends an immediate alert to emergency contacts and triggers a call to emergency services.
 
+📌 How to Run the App
+Clone the repo.
 
-Structure of the system:
-  a.User Module 
-     registration: User has to register their basic details to get access with this application service.
-     Login       : The main activities in the application are the user login page for user. The other modules are followed by this login page . This module records only username and password of the user.
-     Add guardian : Feature in the application add guardian details for sending sms emergency purpose.
-     View Guardian :
-     SOS Button-For emergency : if its triggered , it send messages to the guardian mobile and alert them if the current location of the user.
-     Search nearby police station : user can search a police station from their nearby location.
-     Create complaint :user can add the complaints. adn view and delete the complaints.
-     police helpline 
-     Escape Tips
-  b.Police Module
-    Register
-    Login
-    View complaint 
-    
+Open with Android Studio.
 
+Run the emulator or connect your Android device.
 
-software Requirements :
-Front End:xml
-Back End: Java
+Build and Run the app.
 
-tools :
-Android emulator 
-SQLlite
-Android Studio
-operating system: windows
+🙋‍♀️ Developed By
+Shraddha, BCA Graduate from Alva’s College, passionate about tech and women’s safety through digital solutions.
 
 
 
