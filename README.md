@@ -57,11 +57,17 @@ View Complaints: Access user-submitted reports in real time.
 
 
 Layer	Technology
+
 Frontend	XML (Android UI)
+
 Backend	Java (Android)
+
 Database	SQLite
+
 IDE	Android Studio
+
 Platform	Android (Emulator or Device)
+
 OS	Windows (Development)
 
 
