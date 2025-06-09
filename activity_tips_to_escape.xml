@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bbk"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to the Self-Defense Techniques section!"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/btnPepperSpray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pepper Spray Usage"
+        android:layout_gravity="center_horizontal"
+        android:onClick="displayPepperSprayUsage" />
+
+    <Button
+        android:id="@+id/btnMartialArtsMoves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Basic Martial Arts Moves"
+        android:layout_gravity="center_horizontal"
+        android:onClick="displayMartialArtsMoves" />
+
+    <Button
+        android:id="@+id/btnSafetyDevices"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Personal Safety Devices"
+        android:layout_gravity="center_horizontal"
+        android:onClick="displaySafetyDevices" />
+
+</LinearLayout>

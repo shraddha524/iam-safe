@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bbk"
+    tools:context=".ComplaintActivity">
+
+
+    <Button
+
+        android:id="@+id/buttonCreateComplaint"
+        android:layout_width="233dp"
+        android:layout_height="55dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginBottom="50dp"
+        android:text="Create Complaint" />
+
+    <Button
+        android:id="@+id/buttonViewComplaints"
+        android:layout_width="233dp"
+        android:layout_height="55dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginBottom="100dp"
+        android:text="View Complaints" />
+
+</LinearLayout>
