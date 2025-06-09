@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/batteryAlertTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Battery Alert Feature"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:paddingBottom="16dp" />
+
+    <TextView
+        android:id="@+id/batteryAlertDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This feature automatically sends an emergency SMS to your registered guardian when your phone battery goes below 15%."
+        android:textSize="16sp"
+        android:textColor="#555555"
+        android:paddingBottom="24dp" />
+
+    <Button
+        android:id="@+id/testBatteryAlert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test Battery Alert"
+        android:background="@color/purple_500"
+        android:textColor="#FFFFFF"
+        android:padding="12dp" />
+
+</LinearLayout>
